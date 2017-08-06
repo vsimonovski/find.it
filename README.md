@@ -1,7 +1,9 @@
 find.iT
 ============================
 
-Easily find Developers using data fetched from GitHub API. Find.it supports semantic, human friendly queries such as "Find 10 javascript developers from Belgrade"
+Easily find Developers using data fetched from GitHub API. 
+
+find.iI supports semantic, human friendly queries such as "Find 10 javascript developers from Belgrade"
 
 ## Build Setup
 
