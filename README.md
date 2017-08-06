@@ -5,6 +5,10 @@ Easily find Developers using data fetched from GitHub API.
 
 find.iI supports semantic, human friendly queries such as "Find 10 javascript developers from Belgrade"
 
+## Technologies
+
+Vue.js, Node.js, GitHub API, api.ai
+
 ## Build Setup
 
 ``` bash
